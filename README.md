@@ -12,7 +12,6 @@ Dependencies:
     Python3
     Numpy
     Pandas
-    Matplotlib
     Supervised Learning
     Machine Learning Algorithm
     Classification Algorithms
