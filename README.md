@@ -1,5 +1,5 @@
 # Titanic-Prediction-Model
-# Titanic-Survival-Prediction
+# Titanic-Survival-Prediction.
 
 <img src="https://images8.alphacoders.com/405/405029.jpg">
 
